@@ -9,7 +9,7 @@
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](README.md#Оглавление)
+:arrow_up:[ к оглавлению](README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -45,4 +45,4 @@
 
 [Курсы валют](https://drive.google.com/file/d/1zj3B8rqFxGUL7pDrXlKifxOrp5WL5DxL/view?usp=sharing)
 
-:arrow_up:[к оглавлению](README.md#Оглавление)
+:arrow_up:[ к оглавлению](README.md#Оглавление)
