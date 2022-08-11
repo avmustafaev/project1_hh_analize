@@ -40,6 +40,9 @@
 
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/avmustafaev/project1_hh_analize/blob/main/Проект:%20Анализ%20вакансий%20на%20hh.ipynb)
+
 [Датасет hh на GoogleDrive](https://drive.google.com/file/d/1hiALhWh-f0GdF-Ajka0o3WNwsUEgUdr0/view?usp=sharing)
+
 [Курсы валют](https://drive.google.com/file/d/1zj3B8rqFxGUL7pDrXlKifxOrp5WL5DxL/view?usp=sharing)
+
 :arrow_up:[к оглавлению](README.md#Оглавление)
